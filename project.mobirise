@@ -186,7 +186,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-6\">ÖZELLİKLER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-8\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RAPORLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=0B9wRM7mwf-UfSmZVblItaklyaG8\">Specifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Low Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">High Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Final</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-h\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KİŞİLER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-h\" aria-expanded=\"false\">Takım</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-i\" aria-expanded=\"false\">Supervisor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-i\" aria-expanded=\"false\">Jüri Üyeleri</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-i\" aria-expanded=\"false\">Expert</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-e\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://github.com/bugrafelekoglu\" target=\"_blank\">GITHUB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store?hl=tr\" target=\"_blank\">ANDROID İÇİN İNDİR!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-6\">ÖZELLİKLER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-8\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">RAPORLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=0B9wRM7mwf-UfSmZVblItaklyaG8\">Specifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Low Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">High Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Final</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-h\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KİŞİLER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-h\" aria-expanded=\"false\">Takım</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Supervisor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Jüri Üyeleri</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Expert</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-e\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://github.com/NeYesem\" target=\"_blank\">GITHUB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store?hl=tr\" target=\"_blank\">ANDROID İÇİN İNDİR!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -369,7 +369,7 @@
               "name": "file",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://drive.google.com/open?id=0B9wRM7mwf-UfSmZVblItaklyaG8",
+              "link": "https://drive.google.com/open?id=0B_-rgXCmdigQNzl6TTZ0aXJjMzA",
               "size": "100",
               "color": "#ffffff",
               "newWindow": true
@@ -680,7 +680,7 @@
             "showButtons": false,
             "columnsColor": "#ffffff",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -851,7 +851,7 @@
           "subtitle": "Bilkent Üniversitesi Bilgisayar Mühendisliği<br> Bitirme Proje Takımı",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GÖNDER</a>",
           "form": {
-            "action": "bugrafelekoglu@gmail.com",
+            "action": "projeneyesem@gmail.com",
             "alerts": {
               "success": "En yakın zamanda mesajınızı cevaplayacağız. Bize ulaştığınız için teşekkürler! "
             },
