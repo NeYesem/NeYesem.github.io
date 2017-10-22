@@ -17,7 +17,7 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": [
@@ -35,7 +35,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Ne Yesem? - Sağlıklı Beslenme ve Diyet Programı",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -113,7 +113,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://play.google.com/store?hl=tr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ANDROID İÇİN İNDİR!</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://play.google.com/store?hl=tr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-android mbr-iconfont mbr-iconfont-btn\"></span>ANDROID İÇİN İNDİR!</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://itunes.apple.com/tr/genre/ios/id36?mt=8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span>iOS İÇİN İNDİR!</a>",
           "_name": "msg-box6",
           "_anchor": "msg-box6-2"
         },
@@ -186,7 +186,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-6\">ÖZELLİKLER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-8\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">RAPORLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/file/d/0B_-rgXCmdigQNzl6TTZ0aXJjMzA/view\" target=\"_blank\">Specifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=0B9wRM7mwf-UfX2tDblRUWFR2SWM\" target=\"_blank\">Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Low Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">High Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Final</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-h\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KİŞİLER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-h\" aria-expanded=\"false\">Takım</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Supervisor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Jüri Üyeleri</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Expert</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-e\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://github.com/NeYesem\" target=\"_blank\">GITHUB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store?hl=tr\" target=\"_blank\">ANDROID İÇİN İNDİR!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-6\">ÖZELLİKLER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-8\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RAPORLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/file/d/0B_-rgXCmdigQNzl6TTZ0aXJjMzA/view\" target=\"_blank\">Specifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=0B9wRM7mwf-UfX2tDblRUWFR2SWM\" target=\"_blank\">Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Low Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">High Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Final</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-h\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KİŞİLER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-h\" aria-expanded=\"false\">Takım</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Supervisor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Jüri Üyeleri</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Expert</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-e\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://github.com/NeYesem\" target=\"_blank\">GITHUB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store?hl=tr\" target=\"_blank\">ANDROID İÇİN İNDİR!</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://itunes.apple.com/tr/genre/ios/id36?mt=8\" target=\"_blank\">iOS İÇİN İNDİR!</a></li>",
           "logo": {
             "image": {
               "active": true,
