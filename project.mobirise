@@ -10,7 +10,7 @@
         "secondaryColor": "#e25041",
         "successColor": "#fac51c",
         "infoColor": "#41a85f",
-        "warningColor": "#fac51c",
+        "warningColor": "#2e2e2e",
         "dangerColor": "#b8312f",
         "titleFont": "Open Sans",
         "subtitleFont": "Lora",
@@ -26,8 +26,8 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 21,
-    "versionPublish": "4.3.2",
+    "uniqCompNum": 22,
+    "versionPublish": "4.3.4",
     "favicon": "",
     "noImageResize": ""
   },
@@ -186,7 +186,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-6\">ÖZELLİKLER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-8\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">RAPORLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/file/d/0B_-rgXCmdigQNzl6TTZ0aXJjMzA/view\" target=\"_blank\">Specifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Low Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">High Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Final</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-h\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KİŞİLER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-h\" aria-expanded=\"false\">Takım</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Supervisor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Jüri Üyeleri</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Expert</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-e\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://github.com/NeYesem\" target=\"_blank\">GITHUB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store?hl=tr\" target=\"_blank\">ANDROID İÇİN İNDİR!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-6\">ÖZELLİKLER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-8\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">RAPORLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/file/d/0B_-rgXCmdigQNzl6TTZ0aXJjMzA/view\" target=\"_blank\">Specifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=0B9wRM7mwf-UfX2tDblRUWFR2SWM\" target=\"_blank\">Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Low Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">High Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Final</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-h\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KİŞİLER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-h\" aria-expanded=\"false\">Takım</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Supervisor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Jüri Üyeleri</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Expert</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-e\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://github.com/NeYesem\" target=\"_blank\">GITHUB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store?hl=tr\" target=\"_blank\">ANDROID İÇİN İNDİR!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -380,7 +380,7 @@
               "class": "mbr-iconfont mbr-iconfont-features2",
               "linkInNewWindow": false,
               "name": "new-file",
-              "family": "MobiriseIcons",
+              "family": "mobirise-icons-bold",
               "active": true,
               "size": "100",
               "color": "#ffffff"
@@ -433,11 +433,11 @@
             "Theme"
           ],
           "_params": {
-            "showImages": true,
-            "showTitles": true,
+            "showImages": false,
+            "showTitles": false,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": false,
+            "showButtons": true,
             "columnsColor": "#b8312f",
             "paddingTop": "1",
             "paddingBottom": "2",
@@ -473,11 +473,11 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">AÇ</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0B_-rgXCmdigQNzl6TTZ0aXJjMzA\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>SPECIFICATIONS</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0B9wRM7mwf-UfX2tDblRUWFR2SWM\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ANALYSIS</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#header3-8\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-new-file mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>LOW LEVEL DESIGN</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#header3-8\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-new-file mbr-iconfont mbr-iconfont-btn\"></span>HIGH LEVEL DESIGN</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"index.html#header3-8\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-new-file mbr-iconfont mbr-iconfont-btn\"></span>FINAL</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features2",
           "_anchor": "features2-7",
@@ -490,7 +490,13 @@
               "font-size": "24px"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
-              "font-size": "24px"
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "20px",
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
             }
           }
         },
@@ -755,16 +761,16 @@
               "active": true
             }
           },
-          "title1": "<span style=\"font-weight: normal;\">Halil Altay GÜVENİR</span>",
+          "title1": "<span style=\"font-weight: normal;\">Halil Altay </span><br><span style=\"font-weight: normal;\">GÜVENİR</span>",
           "subtitle1": "Supervisor",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<span style=\"font-weight: normal;\">Ercüment&nbsp;</span><span style=\"font-weight: normal;\">ÇİÇEK</span>",
+          "title2": "<span style=\"font-weight: normal;\">Ercüment&nbsp;</span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">ÇİÇEK</span>",
           "subtitle2": "Jüri Üyesi",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<span style=\"font-weight: normal;\">Hamdi&nbsp;</span><span style=\"font-weight: normal;\">DİBEKLİOĞLU</span>",
+          "title3": "<span style=\"font-weight: normal;\">Hamdi&nbsp;</span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">DİBEKLİOĞLU</span>",
           "subtitle3": "Jüri Üyesi",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "<span style=\"font-weight: normal;\">Deniz KATIRCIOĞLU ÖZTÜRK</span>",
+          "title4": "<span style=\"font-weight: normal;\">Deniz </span><br><span style=\"font-weight: normal;\">KATIRCIOĞLU </span><br><span style=\"font-weight: normal;\">ÖZTÜRK</span>",
           "subtitle4": "Proje Eksperi",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
