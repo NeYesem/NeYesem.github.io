@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NE YESEM?",
+    "name": "NeYesem: Glutensiz",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -29,14 +29,16 @@
     "uniqCompNum": 22,
     "versionPublish": "4.3.4",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Ne Yesem? - Sağlıklı Beslenme ve Diyet Programı",
-        "meta_descr": "",
+        "title": "NeYesem: Glutensiz - Sağlıklı Beslenme ve Diyet Programı",
+        "meta_descr": "NeYesem: Glutensiz, çölyak hastalarına ve glutensiz beslenmek isteyen her kullanıcıya kendi beğenileri doğrultusunda sağlıklı beslenme programı hazırlar ve haftalık alışveriş sepeti oluşturur.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -108,8 +110,8 @@
               "size": 250
             }
           },
-          "title": "NE YESEM?",
-          "text": "Size özel sağlıklı beslenme ve diyet uygulaması<br>Bilkent CS 491 Bitirme Projesi<br>",
+          "title": "NeYesem:<br>Glutensiz&nbsp;",
+          "text": "Çölyak hastalarına ve glutensiz beslenmek isteyenlere özel,<br>sağlıklı beslenme ve diyet uygulaması<br>Bilkent CS 491 Bitirme Projesi<br>",
           "_tags": [
             "Theme"
           ],
@@ -222,7 +224,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "2",
-            "columns": 4,
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -240,7 +242,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "hearth",
+              "name": "smile-face",
               "family": "MobiriseIcons",
               "active": true,
               "size": 0,
@@ -302,18 +304,18 @@
           "_tags": [
             "Theme"
           ],
-          "title1": "Sağlıklı Beslen",
+          "title1": "Glutensiz Yemekler",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Beslenme alışkanlıklarınızı değiştirmek için yola çıktık. Sağlıklı beslenmek artık çok daha kolay. Ne Yesem ile bugün ne yemek yapsam sorusu tarihe karışıyor!",
+          "caption1": "Glutensiz beslenmek artık çok daha kolay. Çölyak hastaları ve sağlıklı beslenmek isteyenler için <i>\"bugün ne yemek yapsam\"</i> sorusu tarihe karışıyor!",
           "title2": "Sana Özel Öneriler",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Alerjin mi var? Yememen gereken besinler çok mu fazla? Diyetisyenin hiç yemem dediğin yemekleri mi öneriyor? Ne Yesem ile tamamen sana özel öneriler.",
+          "caption2": "Çölyak hastası mısın? Glutensiz mi beslenmek istiyorsun? Bir de alerjin mi var? NeYesem:Glutensiz ile tamamen sana özel glutensiz öğünler!&nbsp;",
           "title3": "Haftalık Yemek Menüleri",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Hedef diyetini seç, yiyecekleri oyla, sağlık durumunu gir ve anında haftalık menün karşında! Ayrıca menüye uyamazsan dert etme Ne Yesem senin için tekrar oluşturur.",
-          "title4": "Alışveriş Listeni Oluşturur",
+          "caption3": "Yemekleri oyla, eğer varsa alerjilerini gir; anında haftalık menün karşında! Ayrıca menüye uyamazsan dert etme NeYesem:Glutensiz senin için tekrar oluşturur.",
+          "title4": "Otomatik Alışveriş Listesi",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Ne Yesem yemek yapman için gerekli malzemeleri sana önceden hatırlatıyor. Artık yemek için komşudan malzeme istemene gerek yok!",
+          "caption4": "NeYesem:Glutensiz yemek yapman için gerekli malzemeleri sana önceden hatırlatıyor. Artık yemek için komşudan malzeme istemene gerek yok!",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
