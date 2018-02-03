@@ -516,20 +516,17 @@ h6,
   font-size: 46px;
   font-family: 'Source Sans Pro', sans-serif;
 }
-#features2-7 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #b8312f;
+#features7-m .card-subtitle {
+  color: #bcbcbc;
 }
-#features2-7 .mbr-cards-col:nth-child(even) .card-title {
+#features7-m .iconbox {
+  background-color: #2e2e2e;
+  border-color: #2e2e2e;
+}
+#features7-m H4 {
   color: #ffffff;
-  font-size: 24px;
-}
-#features2-7 .mbr-cards-col:nth-child(odd) .card-title {
-  font-size: 24px;
-  text-align: center;
-}
-#features2-7 .btn {
-  font-size: 20px;
   font-family: 'Source Sans Pro', sans-serif;
+  font-size: 25px;
 }
 #header3-h .mbr-section-title,
 #header3-h .mbr-section-subtitle {

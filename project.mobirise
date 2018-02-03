@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "4.3.4",
     "favicon": "",
     "noImageResize": "",
@@ -110,12 +110,12 @@
               "size": 250
             }
           },
-          "title": "NeYesem:<br>Glutensiz&nbsp;",
-          "text": "Çölyak hastalarına ve glutensiz beslenmek isteyenlere özel,<br>sağlıklı beslenme ve diyet uygulaması<br>Bilkent CS 491 Bitirme Projesi<br>",
+          "title": "NeYesem?<br>Glutensiz&nbsp;",
+          "text": "Çölyak hastalarına ve glutensiz beslenmek isteyenlere özel&nbsp;sağlıklı beslenme ve diyet uygulaması<br>Bilkent CS Bitirme Projesi<br>",
           "_tags": [
             "Theme"
           ],
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://play.google.com/store?hl=tr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-android mbr-iconfont mbr-iconfont-btn\"></span>ANDROID İÇİN İNDİR!</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://itunes.apple.com/tr/genre/ios/id36?mt=8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span>iOS İÇİN İNDİR!</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-android mbr-iconfont mbr-iconfont-btn\"></span>ANDROID İÇİN İNDİR!</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span>iOS İÇİN İNDİR!</a>",
           "_name": "msg-box6",
           "_anchor": "msg-box6-2"
         },
@@ -188,7 +188,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-6\">ÖZELLİKLER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-8\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RAPORLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/file/d/0B_-rgXCmdigQNzl6TTZ0aXJjMzA/view\" target=\"_blank\">Specifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=0B9wRM7mwf-UfX2tDblRUWFR2SWM\" target=\"_blank\">Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">High Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Low Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Final</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-h\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KİŞİLER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-h\" aria-expanded=\"false\">Takım</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Supervisor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Jüri Üyeleri</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Expert</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-e\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://github.com/NeYesem\" target=\"_blank\">GITHUB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store?hl=tr\" target=\"_blank\">ANDROID İÇİN İNDİR!</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://itunes.apple.com/tr/genre/ios/id36?mt=8\" target=\"_blank\">iOS İÇİN İNDİR!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-6\">ÖZELLİKLER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-8\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RAPORLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/file/d/0B_-rgXCmdigQNzl6TTZ0aXJjMzA/view\" target=\"_blank\">Specifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=0B9wRM7mwf-UfX2tDblRUWFR2SWM\" target=\"_blank\">Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">High Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Low Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Final</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-h\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KİŞİLER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-h\" aria-expanded=\"false\">Takım</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Supervisor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Jüri Üyeleri</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Expert</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-e\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://github.com/NeYesem\" target=\"_blank\">GITHUB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ANDROID İÇİN İNDİR!</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">iOS İÇİN İNDİR!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -363,84 +363,14 @@
           "_anchor": "header3-8"
         },
         {
-          "_inherit": "features1",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "linkInNewWindow": false,
-              "name": "file",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://drive.google.com/open?id=0B_-rgXCmdigQNzl6TTZ0aXJjMzA",
-              "size": "100",
-              "color": "#ffffff",
-              "newWindow": true
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "linkInNewWindow": false,
-              "name": "new-file",
-              "family": "mobirise-icons-bold",
-              "active": true,
-              "size": "100",
-              "color": "#ffffff"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "linkInNewWindow": false,
-              "name": "new-file",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": "100",
-              "color": "#ffffff"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "linkInNewWindow": false,
-              "name": "new-file",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": "100",
-              "color": "#ffffff"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "linkInNewWindow": false,
-              "name": "new-file",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": "100",
-              "color": "#ffffff"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
+          "_inherit": "features4",
           "_params": {
-            "showImages": false,
-            "showTitles": false,
+            "showImages": true,
+            "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": true,
-            "columnsColor": "#b8312f",
+            "showButtons": false,
+            "iconsBgColor": "#2e2e2e",
             "paddingTop": "1",
             "paddingBottom": "2",
             "columns": "5",
@@ -457,50 +387,126 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "<span style=\"font-weight: normal;\">Specifications</span>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "document",
+              "family": "et-line",
+              "active": true,
+              "link": "https://drive.google.com/open?id=0B_-rgXCmdigQNzl6TTZ0aXJjMzA",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": true
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "document",
+              "family": "et-line",
+              "active": true,
+              "link": "https://drive.google.com/open?id=0B9wRM7mwf-UfX2tDblRUWFR2SWM",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": true
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "document",
+              "family": "et-line",
+              "active": true,
+              "link": "https://drive.google.com/open?id=1_uiR6pUaoK7Uer-Qt3HIkqrdrK9yJ5L5",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": true
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "document",
+              "family": "et-line",
+              "active": true,
+              "link": "https://drive.google.com/open?id=1szi0kutx8l0qxvA-3_VLDh1t9rYBaZJg",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": true
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "new-file",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#2e2e2e",
+              "border-color": "#2e2e2e"
+            },
+            "H4": {
+              "color": "#ffffff",
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-size": "25px"
+            }
+          },
+          "title1": "SPECIFICATION",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<span style=\"font-weight: normal;\">Analysis</span>",
+          "title2": "ANALYSIS",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<span style=\"font-weight: normal;\">Low Level Design</span>",
+          "title3": "HIGH LEVEL DESIGN",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "<span style=\"font-weight: normal;\">High Level Design</span>",
+          "title4": "LOW LEVEL DESIGN",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "<span style=\"font-weight: normal;\">Final</span>",
+          "title5": "FINAL",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0B_-rgXCmdigQNzl6TTZ0aXJjMzA\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>SPECIFICATIONS</a> ",
-          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0B9wRM7mwf-UfX2tDblRUWFR2SWM\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>ANALYSIS</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=1_uiR6pUaoK7Uer-Qt3HIkqrdrK9yJ5L5\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>HIGH LEVEL DESIGN</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"index.html#header3-8\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-new-file mbr-iconfont mbr-iconfont-btn\"></span>LOW LEVEL DESIGN</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"index.html#header3-8\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-new-file mbr-iconfont mbr-iconfont-btn\"></span>FINAL</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_name": "features2",
-          "_anchor": "features2-7",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#b8312f"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#ffffff",
-              "font-size": "24px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "font-size": "24px",
-              "text-align": "center"
-            },
-            ".btn": {
-              "font-size": "20px",
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
-            }
-          }
+          "_name": "features7",
+          "_anchor": "features7-m"
         },
         {
           "_styles": {
