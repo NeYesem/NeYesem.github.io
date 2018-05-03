@@ -9,7 +9,7 @@
         "primaryColor": "#e25041",
         "secondaryColor": "#e25041",
         "successColor": "#fac51c",
-        "infoColor": "#41a85f",
+        "infoColor": "#8bc349",
         "warningColor": "#2e2e2e",
         "dangerColor": "#b8312f",
         "titleFont": "Open Sans",
@@ -22,7 +22,8 @@
       },
       "additionalSetColors": [
         "#232323",
-        "#2e2e2e"
+        "#2e2e2e",
+        "#8bc349"
       ]
     },
     "versionFirst": "4.3.2",
@@ -111,11 +112,11 @@
             }
           },
           "title": "NeYesem?<br>Glutensiz&nbsp;",
-          "text": "Çölyak hastalarına ve glutensiz beslenmek isteyenlere özel&nbsp;sağlıklı beslenme ve diyet uygulaması<br>Bilkent CS Bitirme Projesi<br>",
+          "text": "Çölyak hastalarına ve glutensiz beslenmek isteyenlere özel<br>&nbsp;sağlıklı beslenme ve diyet uygulaması<br>Bilkent CS Bitirme Projesi - 2018<br>",
           "_tags": [
             "Theme"
           ],
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-android mbr-iconfont mbr-iconfont-btn\"></span>ANDROID İÇİN İNDİR!</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span>iOS İÇİN İNDİR!</a>",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ÇOK YAKINDA</a>",
           "_name": "msg-box6",
           "_anchor": "msg-box6-2"
         },
@@ -188,7 +189,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-6\">ÖZELLİKLER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-8\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RAPORLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/file/d/0B_-rgXCmdigQNzl6TTZ0aXJjMzA/view\" target=\"_blank\">Specifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=0B9wRM7mwf-UfX2tDblRUWFR2SWM\" target=\"_blank\">Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">High Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Low Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-8\">Final</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-h\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KİŞİLER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-h\" aria-expanded=\"false\">Takım</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Supervisor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Jüri Üyeleri</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Expert</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-e\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://github.com/NeYesem\" target=\"_blank\">GITHUB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ANDROID İÇİN İNDİR!</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">iOS İÇİN İNDİR!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-6\">ÖZELLİKLER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-8\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">RAPORLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/file/d/0B_-rgXCmdigQNzl6TTZ0aXJjMzA/view\" target=\"_blank\">Specifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=0B9wRM7mwf-UfX2tDblRUWFR2SWM\" target=\"_blank\">Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=1_uiR6pUaoK7Uer-Qt3HIkqrdrK9yJ5L5\" target=\"_blank\">High Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=1szi0kutx8l0qxvA-3_VLDh1t9rYBaZJg\" target=\"_blank\">Low Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=1CWwClESybxJROwVwChds4NmDkwsh-Nya\" target=\"_blank\">Final</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-h\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KİŞİLER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-h\" aria-expanded=\"false\">Takım</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Supervisor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Jüri Üyeleri</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Expert</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-e\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://github.com/NeYesem\" target=\"_blank\">GITHUB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ÇOK YAKINDA</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -229,7 +230,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -267,7 +268,7 @@
               "family": "MobiriseIcons",
               "active": true,
               "size": 0,
-              "color": "#41a85f"
+              "color": "#8bc349"
             }
           },
           "media4": {
@@ -312,10 +313,10 @@
           "caption2": "Çölyak hastası mısın? Glutensiz mi beslenmek istiyorsun? Bir de alerjin mi var? NeYesem:Glutensiz ile tamamen sana özel glutensiz öğünler!&nbsp;",
           "title3": "Haftalık Yemek Menüleri",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Yemekleri oyla, eğer varsa alerjilerini gir; anında haftalık menün karşında! Ayrıca menüye uyamazsan dert etme NeYesem:Glutensiz senin için tekrar oluşturur.",
+          "caption3": "Yemekleri oyla, eğer varsa alerjilerini gir; anında haftalık menün karşında! Ayrıca menüyü beğenmezsen dert etme NeYesem: Glutensiz senin için tekrar oluşturur.",
           "title4": "Otomatik Alışveriş Listesi",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "NeYesem:Glutensiz yemek yapman için gerekli malzemeleri sana önceden hatırlatıyor. Artık yemek için komşudan malzeme istemene gerek yok!",
+          "caption4": "NeYesem: Glutensiz yemek yapman için gerekli malzemeleri sana önceden hatırlatıyor. Artık yemek için komşudan malzeme istemene gerek yok!",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -352,7 +353,7 @@
             "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#b8312f"
+            "bgColor": "#8bc349"
           },
           "title": "RAPORLAR",
           "meta": "By John Smith posted July 20, 2016",
@@ -370,7 +371,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "#2e2e2e",
+            "iconsBgColor": "#ffffff",
             "paddingTop": "1",
             "paddingBottom": "2",
             "columns": "5",
@@ -378,7 +379,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#b8312f",
+            "bgColor": "#8bc349",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -396,7 +397,7 @@
               "active": true,
               "link": "https://drive.google.com/open?id=0B_-rgXCmdigQNzl6TTZ0aXJjMzA",
               "size": 0,
-              "color": "#fff",
+              "color": "#8bc349",
               "newWindow": true
             }
           },
@@ -409,7 +410,7 @@
               "active": true,
               "link": "https://drive.google.com/open?id=0B9wRM7mwf-UfX2tDblRUWFR2SWM",
               "size": 0,
-              "color": "#fff",
+              "color": "#8bc349",
               "newWindow": true
             }
           },
@@ -422,7 +423,7 @@
               "active": true,
               "link": "https://drive.google.com/open?id=1_uiR6pUaoK7Uer-Qt3HIkqrdrK9yJ5L5",
               "size": 0,
-              "color": "#fff",
+              "color": "#8bc349",
               "newWindow": true
             }
           },
@@ -435,7 +436,7 @@
               "active": true,
               "link": "https://drive.google.com/open?id=1szi0kutx8l0qxvA-3_VLDh1t9rYBaZJg",
               "size": 0,
-              "color": "#fff",
+              "color": "#8bc349",
               "newWindow": true
             }
           },
@@ -443,13 +444,13 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "new-file",
-              "family": "MobiriseIcons",
+              "name": "document",
+              "family": "et-line",
               "active": true,
-              "link": "index.html",
+              "link": "https://drive.google.com/open?id=1CWwClESybxJROwVwChds4NmDkwsh-Nya",
               "size": 0,
-              "color": "#fff",
-              "newWindow": false
+              "color": "#8bc349",
+              "newWindow": true
             }
           },
           "media6": {
@@ -471,8 +472,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#2e2e2e",
-              "border-color": "#2e2e2e"
+              "background-color": "#ffffff",
+              "border-color": "#ffffff"
             },
             "H4": {
               "color": "#ffffff",
@@ -561,9 +562,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.linkedin.com/in/gunesbatmaz/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media2": {
@@ -572,21 +574,21 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.linkedin.com/in/evren-ergen-b2a030a9/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-7649-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/linkedin-kopya-600x597.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "http://bugra.felekoglu.ug.bilkent.edu.tr",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             }
           },
           "media4": {
@@ -595,9 +597,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.linkedin.com/in/mustafa-fidan-27a174138/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media5": {
@@ -606,9 +609,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.linkedin.com/in/u%C4%9Fur-can-uyumaz-565113111/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media6": {
@@ -668,7 +672,7 @@
             },
             ".mbr-section-title": {
               "font-size": "46px",
-              "color": "#b8312f"
+              "color": "#8bc349"
             }
           },
           "_params": {
@@ -715,9 +719,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "http://www.cs.bilkent.edu.tr/~guvenir/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media2": {
@@ -726,9 +731,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "http://ciceklab.cs.bilkent.edu.tr/ercumentcicek/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media3": {
@@ -737,9 +743,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "http://www.cs.bilkent.edu.tr/~dibeklioglu/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media4": {
@@ -748,9 +755,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://tr.linkedin.com/in/denizkatircioglu",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media5": {
@@ -838,7 +846,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 Mobirise.",
+          "text": "<i>design:&nbsp;<a href=\"http://bugra.felekoglu.ug.bilkent.edu.tr/\" target=\"_blank\" class=\"text-info\">Buğra Felekoğlu</a><br></i>Copyright (c) 2018 Mobirise.&nbsp;<i><br></i>",
           "_tags": [
             "Theme"
           ],
@@ -863,7 +871,7 @@
           },
           "title": "İLETİŞİM FORMU",
           "subtitle": "Bilkent Üniversitesi Bilgisayar Mühendisliği<br> Bitirme Proje Takımı",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GÖNDER</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GÖNDER</a>",
           "form": {
             "action": "projeneyesem@gmail.com",
             "alerts": {
