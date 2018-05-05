@@ -15,6 +15,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -507,6 +510,15 @@ h6,
 #features6-6 H4 {
   font-size: 25px;
 }
+#header3-r .mbr-section-title,
+#header3-r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-r .mbr-section-title {
+  color: #ffffff;
+  font-size: 46px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
 #header3-8 .mbr-section-title,
 #header3-8 .mbr-section-subtitle {
   text-align: center;
@@ -544,6 +556,15 @@ h6,
 }
 #features1-g .mbr-cards-col:nth-child(odd) .card-title {
   font-size: 30px;
+}
+#features1-g .mbr-cards-col:nth-child(odd) .card-subtitle {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #979797;
+}
+#features1-g .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #979797;
+  font-family: 'Open Sans', sans-serif;
 }
 #header3-k .mbr-section-title,
 #header3-k .mbr-section-subtitle {
