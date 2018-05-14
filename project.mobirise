@@ -94,7 +94,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ne-390x840.png",
+              "src": "@PROJECT_PATH@/assets/images/ne-1-390x840.png",
               "link": "",
               "alt": "",
               "title": "",
