@@ -117,7 +117,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ÇOK YAKINDA</a>",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://expo.io/@snesky/NeYesemGlutensiz\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEST EDİN</a>",
           "_name": "msg-box6",
           "_anchor": "msg-box6-2"
         },
@@ -190,7 +190,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-6\">ÖZELLİKLER</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-8\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">RAPORLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/file/d/0B_-rgXCmdigQNzl6TTZ0aXJjMzA/view\" target=\"_blank\">Specifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=0B9wRM7mwf-UfX2tDblRUWFR2SWM\" target=\"_blank\">Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=1_uiR6pUaoK7Uer-Qt3HIkqrdrK9yJ5L5\" target=\"_blank\">High Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=1szi0kutx8l0qxvA-3_VLDh1t9rYBaZJg\" target=\"_blank\">Low Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=1CWwClESybxJROwVwChds4NmDkwsh-Nya\" target=\"_blank\">Final</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-h\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KİŞİLER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-h\" aria-expanded=\"false\">Takım</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Supervisor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Jüri Üyeleri</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Expert</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-e\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://github.com/NeYesem\" target=\"_blank\">GITHUB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">ÇOK YAKINDA</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-6\">ÖZELLİKLER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-8\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RAPORLAR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/file/d/0B_-rgXCmdigQNzl6TTZ0aXJjMzA/view\" target=\"_blank\">Specifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=0B9wRM7mwf-UfX2tDblRUWFR2SWM\" target=\"_blank\">Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=1_uiR6pUaoK7Uer-Qt3HIkqrdrK9yJ5L5\" target=\"_blank\">High Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=1szi0kutx8l0qxvA-3_VLDh1t9rYBaZJg\" target=\"_blank\">Low Level Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://drive.google.com/open?id=1CWwClESybxJROwVwChds4NmDkwsh-Nya\" target=\"_blank\">Final</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-h\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">KİŞİLER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-h\" aria-expanded=\"false\">Takım</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Supervisor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Jüri Üyeleri</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\" aria-expanded=\"false\">Expert</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-e\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://github.com/NeYesem\" target=\"_blank\">GITHUB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://expo.io/@snesky/NeYesemGlutensiz\" target=\"_blank\">TEST EDİN</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -379,9 +379,9 @@
             "video": {
               "active": true,
               "class": "mbr-embedded-video",
-              "src": "https://youtu.be/FT9n7MYfkh0",
+              "src": "https://youtu.be/6dUnxwk_ONw",
               "autoplay": false,
-              "loop": false
+              "loop": "on"
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free.",
